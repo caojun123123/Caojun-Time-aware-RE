@@ -1,6 +1,10 @@
 /PL-DocRTA/checkpoints/*
 /PL-DocRTA/datasets/wiki_time/*
 /PL-DocRTA/lm_model/*
-
-
+/DSD-RE/Denoise/data/*
+/DSD-RE/Pretrain/docred_data/*
+/DSD-RE/Pretrain/log/*
+/DSD-RE/Pretrain/prepro_data/*
+/DSD-RE/Fine-tune/docred_data/*
+/DSD-RE/Fine-tune/model/*
 
